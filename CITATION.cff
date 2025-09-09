@@ -5,11 +5,11 @@ authors:
     given-names: Ingvars
     orcid: https://orcid.org/0000-0002-5816-9998
   - family-names: Walet
-    given-names: Niels
+    given-names: Niels Rene
     orcid: https://orcid.org/0000-0002-2061-5534
 title: "Extended Coupled Cluster approach to Twisted Graphene Layers"
 version: 1.0
-identifiers:
-  - type: doi
-    value: 10.48550/arXiv.2405.10863
+doi: 10.48550/arXiv.2405.10863
 date-released: 2025-09-05
+repository-code: "https://github.com/IngvarsV/ECCSD-Graphene"
+license: cc-by-nc-sa-4.0
