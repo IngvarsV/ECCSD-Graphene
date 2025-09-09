@@ -18,7 +18,7 @@ The current funcionality includes:
 There are two main programs, built on the same codebase:
 
 - The monolayer program in ```src/monolayer/``` which contains code for simulating simple monolayer graphene,
-- The bilayer program in ```src/bilayer/``` which contains the CUDA supported simulation code of twister bilayer graphene.
+- The bilayer program in ```src/bilayer/``` which contains the CUDA supported simulation code of twisted bilayer graphene.
 
 ## Changelog
 
@@ -28,8 +28,6 @@ This program has had the following releases:
 ### 1.0 Stable - 5th of September 2025
 
 - Initial public release of the software.
-
-&nbsp;
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
